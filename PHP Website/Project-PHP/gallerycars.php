@@ -6,4 +6,4 @@
 
 <?php include('includes/gallerycars-body.php'); ?>
 
-<?php include('includes/footer-gallerypages.php'); ?>
+<?php include('includes/footer.php'); ?>
