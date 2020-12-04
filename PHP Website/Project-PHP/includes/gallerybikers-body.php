@@ -33,21 +33,6 @@
 											<a class="gallery" href="images/bikers/DominikaDaytona-Harley1.jpg" data-sub-html="Bike 2">
 												<img class="img-fluid img-thumbnail" src="images/bikers/DominikaDaytona-Harley1.jpg" />
 											</a>
-											<a class="gallery" href="images/bikers/ride1.jpg" data-sub-html="Bike 3">
-												<img class="img-fluid img-thumbnail" src="images/bikers/ride1.jpg" />
-											</a>
-											<a class="gallery" href="images/bikers/ride2.jpg" data-sub-html="Bike 1">
-												<img class="img-fluid img-thumbnail" src="images/bikers/ride2.jpg" />
-											</a>
-											<a class="gallery" href="images/bikers/ride3.jpg" data-sub-html="Bike 2">
-												<img class="img-fluid img-thumbnail" src="images/bikers/ride3.jpg" />
-											</a>
-											<a class="gallery" href="images/bikers/ride4.jpg" data-sub-html="Bike 3">
-												<img class="img-fluid img-thumbnail" src="images/bikers/ride4.jpg" />
-											</a>
-											<a class="gallery" href="images/bikers/ride5.jpg" data-sub-html="Bike 4">
-												<img class="img-fluid img-thumbnail" src="images/bikers/ride5.jpg" />
-											</a>
 											<a class="gallery" href="images/bikers/Zalewski-BikeDaytona0.jpg" data-sub-html="Bike 3">
 												<img class="img-fluid img-thumbnail" src="images/bikers/Zalewski-BikeDaytona0.jpg" />
 											</a>
