@@ -1,20 +1,42 @@
-<div id="about" class="section">
+								<div class="container">
 
-		<div class="container">
+									<div class="text-center">
 
-				<h4 class="aboutHeading">MUSIC REVIEWS</h4>
-				<hr>
+										<h1 class="jumbotron-heading">Music Reviews</h1>
+										<hr>
 
-				<h5><a href="#">Black Sabbath</a></h5>
-				
-				<p>Play list </p>
-				<hr>
-				
-				<h5><a href="#">The Beatles</a></h5>
-				
-				<p>Play list </p>
-				<hr>
-                
-				</div>
+									</div>
 
-		</div>
+								</div>
+
+								<div class="container">
+
+									<div class="row">
+
+										<div class="col text-center">
+
+											<h5><a href="#">Black Sabbath</a></h5>
+
+											<p>Playlist</p>
+											<hr>
+
+										</div>
+
+									</div>
+
+									<div class="row">
+
+										<div class="col text-center">
+
+											<h5><a href="#">The Beatles</a></h5>
+
+											<p>Playlist</p>
+											<hr>
+
+										</div>
+
+									</div>
+
+								</div>
+
+							</div>
