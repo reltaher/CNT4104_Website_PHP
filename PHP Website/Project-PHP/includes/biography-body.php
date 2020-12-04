@@ -1,14 +1,21 @@
-<div id="about" class="section">
+								<div class="container">
 
-		<div class="container">
+									<div class="text-center">
 
-			<div class="row">
+										<h1 class="jumbotron-heading">Biography</h1>
+										<hr>
 
-        <h4 class="aboutHeading">BIOGRAPHY</h4>
-        <hr>
+									</div>
+								</div>
 
-				</div>
+								<div class="container">
 
-			</div>
+									<div class="row">
 
-		</div>
+										<div class="col text-center">
+
+										</div>
+
+									</div>
+
+								</div>
