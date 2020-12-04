@@ -192,11 +192,6 @@ img{
     padding: 10px;
 }
 
-.gallery img:hover{
-    filter: grayscale(100%);
-    transform: scale(1.1);
-}
-
 .figure {
     margin-right: auto;
     margin-left: auto;
