@@ -2,53 +2,160 @@
 
 									<div class="text-center">
 
-									<h1 class="jumbotron-heading">Gallery: Bikers</h1>
-									<hr>
+										<h1 class="jumbotron-heading">Gallery: Bikers</h1>
+										<hr>
 
 									</div>
+								</div>
+								<div class="album py-5 bg-light">
+									<div class="container">
+										<div class="row">
 
-									<div class="row">
-										<div id="lightgallery">
-											<a class="gallery" href="images/bikers/DobroslawaDaytona-Bike4.jpg" data-sub-html="Bike 1">
-												<img class="img-fluid img-thumbnail" src="images/bikers/DobroslawaDaytona-Bike4.jpg" />
-											</a>
-											<a class="gallery" href="images/bikers/DobroslawaDaytona-Bike5.jpg" data-sub-html="Bike 2">
-												<img class="img-fluid img-thumbnail" src="images/bikers/DobroslawaDaytona-Bike5.jpg" />
-											</a>
-											<a class="gallery" href="images/bikers/DobroslawaDaytona-Car.jpg" data-sub-html="Bike 3">
-												<img class="img-fluid img-thumbnail" src="images/bikers/DobroslawaDaytona-Car.jpg" />
-											</a>
-											<a class="gallery" href="images/bikers/DobroslawaDaytona-DirtyHarry.jpg" data-sub-html="Bike 1">
-												<img class="img-fluid img-thumbnail" src="images/bikers/DobroslawaDaytona-DirtyHarry.jpg" />
-											</a>
-											<a class="gallery" href="images/bikers/DominikaDallas-RoyOrbison.jpg" data-sub-html="Bike 2">
-												<img class="img-fluid img-thumbnail" src="images/bikers/DominikaDallas-RoyOrbison.jpg" />
-											</a>
-											<a class="gallery" href="images/bikers/DominikaDaytona-Bike1.jpg" data-sub-html="Bike 3">
-												<img class="img-fluid img-thumbnail" src="images/bikers/DominikaDaytona-Bike1.jpg" />
-											</a>
-											<a class="gallery" href="images/bikers/DominikaDaytona-Harley.jpg" data-sub-html="Bike 1">
-												<img class="img-fluid img-thumbnail" src="images/bikers/DominikaDaytona-Harley.jpg" />
-											</a>
-											<a class="gallery" href="images/bikers/DominikaDaytona-Harley1.jpg" data-sub-html="Bike 2">
-												<img class="img-fluid img-thumbnail" src="images/bikers/DominikaDaytona-Harley1.jpg" />
-											</a>
-											<a class="gallery" href="images/bikers/Zalewski-BikeDaytona0.jpg" data-sub-html="Bike 3">
-												<img class="img-fluid img-thumbnail" src="images/bikers/Zalewski-BikeDaytona0.jpg" />
-											</a>
-											<a class="gallery" href="images/bikers/Zalewski-BikeDaytona1.jpg" data-sub-html="Bike 1">
-												<img class="img-fluid img-thumbnail" src="images/bikers/Zalewski-BikeDaytona1.jpg" />
-											</a>
-											<a class="gallery" href="images/bikers/Zalewski-BikeDaytona2.jpg" data-sub-html="Bike 2">
-												<img class="img-fluid img-thumbnail" src="images/bikers/Zalewski-BikeDaytona2.jpg" />
-											</a>
-											<a class="gallery" href="images/bikers/Zalewski-BikeRomeNY.jpg" data-sub-html="Bike 3">
-												<img class="img-fluid img-thumbnail" src="images/bikers/Zalewski-BikeRomeNY.jpg" />
-											</a>
-											<a class="gallery" href="images/bikers/ZalewskiHarley-Milwaukee.jpg" data-sub-html="Bike 4">
-												<img class="img-fluid img-thumbnail" src="images/bikers/ZalewskiHarley-Milwaukee.jpg" />
-											</a>
+											<div class="col-md-4">
+												<div class="card mb-4 box-shadow">
+													<img class="card-img-top" src="images/bikers/DobroslawaDaytona-Bike4.jpg" alt="Card image cap">
+													<div class="card-body">
+														<p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+													</div>
+												</div>
+											</div>
+											<div class="col-md-4">
+												<div class="card mb-4 box-shadow">
+													<img class="card-img-top" src="images/bikers/DobroslawaDaytona-Bike4.jpg" alt="Card image cap">
+													<div class="card-body">
+														<p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+													</div>
+												</div>
+											</div>
+											<div class="col-md-4">
+												<div class="card mb-4 box-shadow">
+													<img class="card-img-top" src="images/bikers/DobroslawaDaytona-Bike4.jpg" alt="Card image cap">
+													<div class="card-body">
+														<p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+													</div>
+												</div>
+											</div>
+											<div class="col-md-4">
+												<div class="card mb-4 box-shadow">
+													<img class="card-img-top" src="images/bikers/DobroslawaDaytona-Bike4.jpg" alt="Card image cap">
+													<div class="card-body">
+														<p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+													</div>
+												</div>
+											</div>
+											<div class="col-md-4">
+												<div class="card mb-4 box-shadow">
+													<img class="card-img-top" src="images/bikers/DobroslawaDaytona-Bike4.jpg" alt="Card image cap">
+													<div class="card-body">
+														<p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+													</div>
+												</div>
+											</div>
+											<div class="col-md-4">
+												<div class="card mb-4 box-shadow">
+													<img class="card-img-top" src="images/bikers/DobroslawaDaytona-Bike4.jpg" alt="Card image cap">
+													<div class="card-body">
+														<p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+													</div>
+												</div>
+											</div>
+											<div class="col-md-4">
+												<div class="card mb-4 box-shadow">
+													<img class="card-img-top" src="images/bikers/DobroslawaDaytona-Bike4.jpg" alt="Card image cap">
+													<div class="card-body">
+														<p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+													</div>
+												</div>
+											</div>
+											<div class="col-md-4">
+												<div class="card mb-4 box-shadow">
+													<img class="card-img-top" src="images/bikers/DobroslawaDaytona-Bike4.jpg" alt="Card image cap">
+													<div class="card-body">
+														<p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+													</div>
+												</div>
+											</div>
+											<div class="col-md-4">
+												<div class="card mb-4 box-shadow">
+													<img class="card-img-top" src="images/bikers/DobroslawaDaytona-Bike4.jpg" alt="Card image cap">
+													<div class="card-body">
+														<p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+													</div>
+												</div>
+											</div>
+											<div class="col-md-4">
+												<div class="card mb-4 box-shadow">
+													<img class="card-img-top" src="images/bikers/DobroslawaDaytona-Bike4.jpg" alt="Card image cap">
+													<div class="card-body">
+														<p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+													</div>
+												</div>
+											</div>
+											<div class="col-md-4">
+												<div class="card mb-4 box-shadow">
+													<img class="card-img-top" src="images/bikers/DobroslawaDaytona-Bike4.jpg" alt="Card image cap">
+													<div class="card-body">
+														<p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+													</div>
+												</div>
+											</div>
+											<div class="col-md-4">
+												<div class="card mb-4 box-shadow">
+													<img class="card-img-top" src="images/bikers/DobroslawaDaytona-Bike4.jpg" alt="Card image cap">
+													<div class="card-body">
+														<p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+													</div>
+												</div>
+											</div>
+											<div class="col-md-4">
+												<div class="card mb-4 box-shadow">
+													<img class="card-img-top" src="images/bikers/DobroslawaDaytona-Bike4.jpg" alt="Card image cap">
+													<div class="card-body">
+														<p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+													</div>
+												</div>
+											</div>
+											<div class="col-md-4">
+												<div class="card mb-4 box-shadow">
+													<img class="card-img-top" src="images/bikers/DobroslawaDaytona-Bike4.jpg" alt="Card image cap">
+													<div class="card-body">
+														<p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+													</div>
+												</div>
+											</div>
+											<div class="col-md-4">
+												<div class="card mb-4 box-shadow">
+													<img class="card-img-top" src="images/bikers/DobroslawaDaytona-Bike4.jpg" alt="Card image cap">
+													<div class="card-body">
+														<p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+													</div>
+												</div>
+											</div>
+											<div class="col-md-4">
+												<div class="card mb-4 box-shadow">
+													<img class="card-img-top" src="images/bikers/DobroslawaDaytona-Bike4.jpg" alt="Card image cap">
+													<div class="card-body">
+														<p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+													</div>
+												</div>
+											</div>
+											<div class="col-md-4">
+												<div class="card mb-4 box-shadow">
+													<img class="card-img-top" src="images/bikers/DobroslawaDaytona-Bike4.jpg" alt="Card image cap">
+													<div class="card-body">
+														<p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+													</div>
+												</div>
+											</div>
+											<div class="col-md-4">
+												<div class="card mb-4 box-shadow">
+													<img class="card-img-top" src="images/bikers/DobroslawaDaytona-Bike4.jpg" alt="Card image cap">
+													<div class="card-body">
+														<p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+													</div>
+												</div>
+											</div>
 										</div>
 									</div>
-
 								</div>
+							</div>
