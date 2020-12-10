@@ -1,3 +1,5 @@
+							<div class="section">
+
 								<div class="container">
 
 									<div class="text-center">
@@ -47,7 +49,8 @@
 
 									</div>
 									
-
 								</div>
 
 							</div>
+
+						</div>
