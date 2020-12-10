@@ -1,61 +1,65 @@
-								<div class="container">
+<div class="section">
 
-									<div class="text-center">
+	<div class="container">
 
-										<h1 class="jumbotron-heading">Experience</h1>
-										<hr>
+		<div class="text-center">
 
-									</div>
+			<h1 class="jumbotron-heading">Experience</h1>
+			<hr>
 
-								</div>
+		</div>
 
-								<div class="container">
-									<div class="row">
+	</div>
 
-										<div class="col text-center">
+	<div class="container">
+		<div class="row">
 
-											<h3 >2019</h3>
-										  </br>
-											<h5>Experience one</h5>
-											<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Saepe voluptatum quidem exercitationem maxime nobis sunt. Maiores illo accusantium eos? Quas obcaecati perferendis saepe temporibus incidunt fugit quae maiores modi porro!</p>
-											<hr>
+			<div class="col text-center">
 
-										</div>
-									</div>
+				<h3 >2019</h3>
+			</br>
+			<h5>Experience one</h5>
+			<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Saepe voluptatum quidem exercitationem maxime nobis sunt. Maiores illo accusantium eos? Quas obcaecati perferendis saepe temporibus incidunt fugit quae maiores modi porro!</p>
+			<hr>
 
-									<div class="row">
+		</div>
+	</div>
 
-										<div class="col text-center">
+	<div class="row">
 
-											<h3 >2018</h3>
-											</br>
-											<h5>Experience one</h5>											
-											<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Saepe voluptatum quidem exercitationem maxime nobis sunt. Maiores illo accusantium eos? Quas obcaecati perferendis saepe temporibus incidunt fugit quae maiores modi porro!</p>
-											</br>
+		<div class="col text-center">
 
-											<h5>Experience two</h5>
-											<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Saepe voluptatum quidem exercitationem maxime nobis sunt. Maiores illo accusantium eos? Quas obcaecati perferendis saepe temporibus incidunt fugit quae maiores modi porro!</p>
-											<hr>
+			<h3 >2018</h3>
+		</br>
+		<h5>Experience one</h5>											
+		<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Saepe voluptatum quidem exercitationem maxime nobis sunt. Maiores illo accusantium eos? Quas obcaecati perferendis saepe temporibus incidunt fugit quae maiores modi porro!</p>
+	</br>
 
-										</div>
-									</div>
-									
-									<div class="row">
+	<h5>Experience two</h5>
+	<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Saepe voluptatum quidem exercitationem maxime nobis sunt. Maiores illo accusantium eos? Quas obcaecati perferendis saepe temporibus incidunt fugit quae maiores modi porro!</p>
+	<hr>
 
-										<div class="col text-center">
+</div>
+</div>
 
-											<h3 >2017</h3>
-										  </br>
-											<h5>Experience one</h5>											
-											<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Saepe voluptatum quidem exercitationem maxime nobis sunt. Maiores illo accusantium eos? Quas obcaecati perferendis saepe temporibus incidunt fugit quae maiores modi porro!</p>
-											</br>
+<div class="row">
 
-											<h5>Experience two</h5>										
-											<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Saepe voluptatum quidem exercitationem maxime nobis sunt. Maiores illo accusantium eos? Quas obcaecati perferendis saepe temporibus incidunt fugit quae maiores modi porro!</p>
-											<hr>
+	<div class="col text-center">
 
-										</div>
-									</div>
-									
-									
-								</div>
+		<h3 >2017</h3>
+	</br>
+	<h5>Experience one</h5>											
+	<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Saepe voluptatum quidem exercitationem maxime nobis sunt. Maiores illo accusantium eos? Quas obcaecati perferendis saepe temporibus incidunt fugit quae maiores modi porro!</p>
+</br>
+
+<h5>Experience two</h5>										
+<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Saepe voluptatum quidem exercitationem maxime nobis sunt. Maiores illo accusantium eos? Quas obcaecati perferendis saepe temporibus incidunt fugit quae maiores modi porro!</p>
+<hr>
+
+</div>
+</div>
+
+
+</div>
+
+</div>
