@@ -1,10 +1,16 @@
 <div id="family" class="section">
-
 								<div class="container">
 
-									<h4 class="familyHeading">Family</h4>
-									<hr>
-									
+									<div class="text-center">
+
+										<h1 class="jumbotron-heading">Family</h1>
+										<hr>
+
+									</div>
+
+								</div>
+
+								<div class="container">								
 									
 										<img src="images/FamilyWeddingGrandparents.JPG" style="float:left"><h5 class="GrandparentsTitle">Grandparents</h5>
 										<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Inventore tempore quasi dolores commodi aliquam, quibusdam vitae fuga iste laudantium eos molestiae odit! Est aliquid nulla facere aut iste possimus veritatis? Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempore est eos excepturi mollitia totam, in laborum officiis iure harum saepe at accusantium quo, odio, tempora odit velit vitae vel nulla! Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus deleniti tempore libero excepturi magni possimus, sed, consectetur quisquam unde, accusamus eligendi. Tempora facilis reprehenderit maxime quas atque saepe assumenda nesciunt. Lorem ipsum dolor sit amet consectetur adipisicing elit. Vel quae adipisci iusto eveniet est facilis temporibus asperiores accusantium voluptate, et culpa dignissimos eum. Tempora id optio modi porro nobis cumque.lorem Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore porro, eos animi deserunt assumenda ratione est rerum sit voluptatum, minima reiciendis? Veritatis dignissimos mollitia voluptate omnis, fuga excepturi expedita placeat! Lorem ipsum dolor sit amet consectetur adipisicing elit. Et est aliquid perferendis porro nam delectus vitae praesentium aperiam impedit hic accusantium nobis eaque, eos consectetur nemo velit quod explicabo excepturi.</p>
@@ -42,3 +48,4 @@
 										<hr>
 
 								</div>
+							</div>
