@@ -1,36 +1,40 @@
-<div class="container">
+<div class="section">
 
-	<div class="text-center">
+							<div class="container">
 
-		<h1 class="jumbotron-heading">The Z Clan</h1>
-		<hr>
+								<div class="text-center">
 
-	</div>
+									<h1 class="jumbotron-heading">The Z Clan</h1>
+									<hr>
 
-</div>
+								</div>
 
-<div class="container">
+							</div>
 
-	<div class="row">
+							<div class="container">
 
-		<div class="col text-center">
+								<div class="row">
 
-			<h5><a href="https://en.wikipedia.org/wiki/Krzysztof_Zalewski">Krzysztof Zalewski - Singer</h5>
-			<hr>
+									<div class="col text-center">
 
-		</div>
+										<h5><a href="https://en.wikipedia.org/wiki/Krzysztof_Zalewski">Krzysztof Zalewski - Singer</a></h5>
+											<hr>
 
-	</div>
+										</div>
 
-	<div class="row">
+									</div>
 
-		<div class="col text-center">
+									<div class="row">
 
-			<h5><a href="https://lcamtuf.coredump.cx/">Michał Zalewski - Security Engineer</h5>
-			<hr>
+										<div class="col text-center">
 
-		</div>
+											<h5><a href="https://lcamtuf.coredump.cx/">Michał Zalewski - Security Engineer</a></h5>
+												<hr>
 
-	</div>
+											</div>
 
-</div>
+										</div>
+
+									</div>
+
+								</div>
