@@ -32,6 +32,7 @@
 						<a id="item" class="dropdown-item" href="family.php">Family</a>
 						<a id="item" class="dropdown-item" href="education.php">Education</a>
 						<a id="item" class="dropdown-item" href="hometown.php">Hometown</a>
+						<a id="item" class="dropdown-item" href="zclan.php">The Z Clan</a>
 					</div>
 
 					<li class="nav-item dropdown">
